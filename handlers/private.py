@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. And Developed By - [𝗛𝗔𝗥𝗦𝗛](https://t.me/Harsh_722)
+I can play music in your group's voice call. And Developed By - [𝗛𝗔𝗥𝗦𝗛](https://t.me/H4RSH_722)
 
 Add me to your group and play music freely!**
         """,
@@ -19,7 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🔱 𝗢𝗪𝗡𝗘𝗥 🔱", url="https://t.me/Harsh_722")
+                        "🔱 𝗢𝗪𝗡𝗘𝗥 🔱", url="https://t.me/H4RSH_722")
                   ],[
                     InlineKeyboardButton(
                         "🎧 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗧 ", url="https://t.me/IronHeart_Assistant_722"
